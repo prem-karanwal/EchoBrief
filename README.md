@@ -9,3 +9,5 @@ EchoBrief is an audio summarization application that leverages advanced AI tools
 **Text Summarization**: Employs the Gemini Pro model for summarizing transcriptions, producing easy-to-digest summaries from long audio files.
 
 **Interactive UI with Streamlit**: Upload audio files via a user-friendly web interface to receive transcriptions and summaries instantly.
+![image](https://github.com/user-attachments/assets/5f7a6228-5f84-4076-89df-77fc787fdc21)
+
